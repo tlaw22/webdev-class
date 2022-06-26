@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/tlaw22/webdev-class/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+TESTING TEXT EDITOR
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
